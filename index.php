@@ -43,7 +43,7 @@
                 </div>
                 <br>
                 <div class="d-flex justify-content-center">
-                    <p class="lead w-75 text-center">« Nous avons décidé d'aborder un thème urbain en mélangeant la discipline du breakdance et du basket-ball dans un "décore" lui aussi urbain. Les plans sont tournés en 360° ce qui permet de se déplacer librement dans la vidéo pour découvrir à chaque visionnage un nouvel angle de vue et de nouvelles scènes. La musique quant à elle rejoint le thème principal avec une rythmique une nouvelle fois très urbaine et qui peut être raccord avec le monde du breakdance et celui du basket-ball. »</p>
+                    <p class="lead w-75 text-center">« Nous avons décidé d'aborder un thème urbain en mélangeant la discipline du breakdance et du basket-ball dans un <i>"décor"</i> lui aussi urbain. Les plans sont tournés en 360° ce qui permet de se déplacer librement dans la vidéo pour découvrir à chaque visionnage un nouvel angle de vue et de nouvelles scènes. La musique quant à elle rejoint le thème principal avec une rythmique une nouvelle fois très urbaine et qui peut être raccord avec le monde du breakdance et celui du basket-ball. »</p>
                 </div>
             </div>
         </div>
