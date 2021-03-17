@@ -39,7 +39,7 @@
             <div class="container pb-3">
                 <div class="d-flex justify-content-center">
                     <!--<img class="preview" src="assets/img/fake-video.svg" alt="Preview" width="80%" height="80%" />-->
-                    <iframe src="https://www.youtube.com/watch?v=dupafpTec88" width="820" height="540"></iframe>
+                    <iframe src="https://www.youtube.com/embed/dupafpTec88" width="820" height="540" frameborder="0" allowfullscreen=""></iframe>
                 </div>
                 <br>
                 <div class="d-flex justify-content-center">
